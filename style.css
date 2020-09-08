@@ -1,0 +1,18 @@
+.title{
+    margin-bottom: 20px; 
+    text-align:center; 
+    width: 240px; 
+    color:orange; 
+    border: solid blue 2px; 
+}
+input[type="button"]{ 
+    background-color:lightblue; 
+    color: black; 
+    border: solid black 2px; 
+    width:100% ;
+} 
+input[type="text"] { 
+    background-color:white; 
+    border: solid yellow 2px; 
+    width:100% ;
+}
