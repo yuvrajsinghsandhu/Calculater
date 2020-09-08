@@ -1,9 +1,22 @@
+body{
+    
+    background:-webkit-linear-gradient(#7E84CE, #69B2E8);
+    background:-moz-linear-gradient(#7E84CE, #69B2E8);
+    background:-o-linear-gradient(#7E84CE, #69B2E8);
+    background:linear-gradient(#7E84CE, #69B2E8);
+    background-attachment:fixed;
+    font-weight:700;
+    font-family:sans-serif;
+}
+
 .title{
     margin-bottom: 20px; 
     text-align:center; 
-    width: 240px; 
-    color:orange; 
-    border: solid blue 2px; 
+    width: 100%; 
+    background:#ff5500;
+    color:#ffffff; 
+    border: solid skyblue 2px; 
+    font-size:1.2em;
 }
 input[type="button"]{ 
     background-color:lightblue; 
@@ -13,6 +26,6 @@ input[type="button"]{
 } 
 input[type="text"] { 
     background-color:white; 
-    border: solid yellow 2px; 
+    border: solid #00000055 2px; 
     width:100% ;
 }
