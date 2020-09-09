@@ -46,3 +46,12 @@ td{
 td:active{
     background:#559AC3;
 }
+footer{
+    width:100%;
+    position:sticky;
+    bottom:0;
+    background:#000000;
+    color:#ffffff;
+    text-align:center;
+    font-weight:300;
+}
